@@ -20,6 +20,7 @@ font-family: Arial, Helvetica, sans-serif;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .introtext{
@@ -33,4 +34,13 @@ font-family: Arial, Helvetica, sans-serif;
 
 .liste1{
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.table1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tableOverskrift{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-weight: bold;
 }
