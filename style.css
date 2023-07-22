@@ -3,9 +3,11 @@ body{
 }
 
 .title{
-color: aqua;
+color: rgb(175, 175, 175);
 background-color: grey;
 font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font: 50px;
 }
 
 .topnav{
@@ -46,6 +48,9 @@ font-family: Arial, Helvetica, sans-serif;
 }
 .overlimit{
     color: crimson;
+}
+.underlimit{
+    color: green;
 }
 .footnote{
     font-family: Arial, Helvetica, sans-serif;
