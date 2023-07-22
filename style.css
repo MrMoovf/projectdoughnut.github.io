@@ -3,11 +3,12 @@ body{
 }
 
 .title{
-color: rgb(175, 175, 175);
+color: rgba(255, 255, 255, 0.86);
 background-color: grey;
 font-family: Arial, Helvetica, sans-serif;
 text-align: center;
-font: 50px;
+font: 65px;
+padding: 20px;
 }
 
 .topnav{
@@ -58,5 +59,6 @@ font: 50px;
 .undertitel{
     font-family: Arial, Helvetica, sans-serif;
     background-color: grey;
+    color: rgba(255, 255, 255, 0.86);
     overflow: hidden;
 }
