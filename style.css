@@ -5,9 +5,18 @@ body{
 .title{
 color: aqua;
 background-color: grey;
+font-family: Arial, Helvetica, sans-serif;
 }
 
 .introtext{
     font-family: Arial, Helvetica, sans-serif;
-    
+
+}
+
+.lilleoverskrift{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.liste1{
+    font-family: Arial, Helvetica, sans-serif;
 }
