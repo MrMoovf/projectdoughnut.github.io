@@ -15,16 +15,18 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a{
+.link1{
     color:green;
     text-decoration: dotted;
     background-color: lightgray;
     padding: 5px;
+    line-height: 1.6;
+    font-size: 14px;
 }
-a:hover{
+.link1:hover{
     color: lightgreen;
 }
-a:visited{
+.link1:visited{
     color: lightblue;
 }
 
