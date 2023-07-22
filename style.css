@@ -3,7 +3,7 @@ body{
 }
 
 .title{
-color: rgba(255, 255, 255, 0.86);
+color: rgba(255, 255, 255, 0.948);
 background-color: grey;
 font-family: Arial, Helvetica, sans-serif;
 text-align: center;
@@ -44,8 +44,9 @@ padding: 20px;
 }
 .tableOverskrift{
     font-family: Arial, Helvetica, sans-serif;
-    font-size:larger;
+    font-size: 40px;
     font-weight: bold;
+    text-align: center;
 }
 .overlimit{
     color: crimson;
@@ -59,6 +60,6 @@ padding: 20px;
 .undertitel{
     font-family: Arial, Helvetica, sans-serif;
     background-color: grey;
-    color: rgba(255, 255, 255, 0.86);
+    color:rgba(255, 255, 255, 0.948);
     overflow: hidden;
 }
