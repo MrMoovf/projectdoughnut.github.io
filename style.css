@@ -15,6 +15,19 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+a{
+    color:green;
+    text-decoration: dotted;
+    background-color: lightgray;
+    padding: 5px;
+}
+a:hover{
+    color: lightgreen;
+}
+a:visited{
+    color: lightblue;
+}
+
 table{
     margin-left: auto;
     margin-right: auto;
