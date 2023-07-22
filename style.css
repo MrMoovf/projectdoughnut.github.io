@@ -2,6 +2,10 @@ body{
     background-color:azure;
 }
 
+table{
+    text-align: center;
+}
+
 .title{
 color: rgba(255, 255, 255, 0.948);
 background-color: grey;
