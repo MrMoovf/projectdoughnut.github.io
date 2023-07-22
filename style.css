@@ -36,6 +36,8 @@ padding: 15px;
     background-color: #333;
     color:rgba(255, 255, 255, 0.948);
     overflow: hidden;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 .tableOverskrift{
