@@ -20,10 +20,9 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
     color:green;
     text-decoration: dotted;
-    background-color: lightgray;
     padding: 5px;
     line-height: 1.6;
-    font-size: 14px;
+    font-size: 20px;
 }
 .indholdsfortegnelse a.navlink1:hover{
     color:#333
