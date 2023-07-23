@@ -17,9 +17,7 @@ h3{
 
 
 .indholdsfortegnelse a.navlink1{
-    color:green;
-}
-.link1{
+    font-family: Arial, Helvetica, sans-serif;
     color:green;
     text-decoration: dotted;
     background-color: lightgray;
@@ -27,10 +25,10 @@ h3{
     line-height: 1.6;
     font-size: 14px;
 }
-.link1:hover{
-    color: lightgreen;
+.indholdsfortegnelse a.navlink1:hover{
+    color:#333
 }
-.link1:visited{
+.indholdsfortegnelse a.navlink1:visited{
     color: lightblue;
 }
 
