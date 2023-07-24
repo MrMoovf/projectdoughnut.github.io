@@ -6,9 +6,12 @@ body{
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    font-size: 18px;
 }
 ul{
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
 }
 ol{
     font-family: Arial, Helvetica, sans-serif;
@@ -36,14 +39,14 @@ h3{
     color:green;
     text-decoration: dotted;
     padding: 5px;
-    line-height: 1.6;
-    font-size: 20px;
+    line-height: 1.5;
+    font-size: 18px;
 }
 .indholdsfortegnelse a.navlink1:hover{
     color:#333
 }
 .indholdsfortegnelse a.navlink1:visited{
-    color: rgb(26, 30, 31);
+    color:rgba(77, 43, 43, 0.385);
 }
 
 table{
@@ -152,6 +155,7 @@ border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     font-weight:400;
+    line-height: 2px;
 }
 
 .liste1{
